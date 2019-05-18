@@ -1,0 +1,11 @@
+num1=5
+num2=5
+sum=0
+if(num1==num2){
+    sum=num1+num2
+    console.log(sum)
+}
+else{
+    sum=(num1+num2)*2
+    console.log(sum)
+}
